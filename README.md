@@ -1,12 +1,12 @@
-![log](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![log](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Adithyan K</h1>
 <h3 align="center">Self Enthusiastic Game Developer in India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on **Pirate And The Treasure**
 
-- 🌱 I’m currently learning **Unreal Engine , C++**
+- 🔭 I’m currently working on **Endless Runner 3d **
+
+- 🌱 I’m currently learning **Unreal Engine and C++**
 
 - 💬 Ask me about **I am 19 year old boy , who is passionate about both playing and crafting games.**
 
