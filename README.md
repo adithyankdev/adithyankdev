@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **Endless Runner 3d **
+- 🔭 I’m currently working on **Multiplayer Prop Hunt Game**
 
 - 🌱 I’m currently learning **Unreal Engine and C++**
 
-- 💬 Ask me about **I am 19 year old boy , who is passionate about both playing and crafting games.**
+- 💬 **I am 19 year old boy , who is passionate about both playing and crafting games.**
 
 - 📫 How to reach me **adx00k@gmail.com**
 
